@@ -284,5 +284,3 @@ SHOW CREATE TABLE order_items;
 
 SHOW CREATE TABLE orders;
 
-Drop table order_items;
-Drop table orders;
