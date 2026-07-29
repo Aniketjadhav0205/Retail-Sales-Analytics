@@ -1,0 +1,51 @@
+store_id,store_name,city,state,region,store_type
+S00001,Mumbai Hub Store,Mumbai,Maharashtra,West,Franchise
+S00002,Delhi Prime Store,Delhi,Delhi,North,Flagship
+S00003,Bengaluru Central Store,Bengaluru,Karnataka,South,Mall
+S00004,Chennai Hub Store,Chennai,Tamil Nadu,South,Franchise
+S00005,Kolkata Hub Store,Kolkata,West Bengal,East,Franchise
+S00006,Hyderabad Prime Store,Hyderabad,Telangana,South,Flagship
+S00007,Pune Central Store,Pune,Maharashtra,West,Mall
+S00008,Ahmedabad Central Store,Ahmedabad,Gujarat,West,Mall
+S00009,Jaipur Hub Store,Jaipur,Rajasthan,North,Franchise
+S00010,Lucknow Express Store,Lucknow,Uttar Pradesh,North,Outlet
+S00011,Mumbai Hub Store,Mumbai,Maharashtra,West,Franchise
+S00012,Delhi Hub Store,Delhi,Delhi,North,Franchise
+S00013,Bengaluru Hub Store,Bengaluru,Karnataka,South,Franchise
+S00014,Chennai Hub Store,Chennai,Tamil Nadu,South,Franchise
+S00015,Kolkata Prime Store,Kolkata,West Bengal,East,Flagship
+S00016,Hyderabad Central Store,Hyderabad,Telangana,South,Mall
+S00017,Pune Prime Store,Pune,Maharashtra,West,Flagship
+S00018,Ahmedabad Prime Store,Ahmedabad,Gujarat,West,Flagship
+S00019,Jaipur Prime Store,Jaipur,Rajasthan,North,Flagship
+S00020,Lucknow Hub Store,Lucknow,Uttar Pradesh,North,Franchise
+S00021,Mumbai Express Store,Mumbai,Maharashtra,West,Outlet
+S00022,Delhi Central Store,Delhi,Delhi,North,Mall
+S00023,Bengaluru Express Store,Bengaluru,Karnataka,South,Outlet
+S00024,Chennai Prime Store,Chennai,Tamil Nadu,South,Flagship
+S00025,Kolkata Prime Store,Kolkata,West Bengal,East,Flagship
+S00026,Hyderabad Express Store,Hyderabad,Telangana,South,Outlet
+S00027,Pune Express Store,Pune,Maharashtra,West,Outlet
+S00028,Ahmedabad Express Store,Ahmedabad,Gujarat,West,Outlet
+S00029,Jaipur Prime Store,Jaipur,Rajasthan,North,Flagship
+S00030,Lucknow Prime Store,Lucknow,Uttar Pradesh,North,Flagship
+S00031,Mumbai Central Store,Mumbai,Maharashtra,West,Mall
+S00032,Delhi Central Store,Delhi,Delhi,North,Mall
+S00033,Bengaluru Prime Store,Bengaluru,Karnataka,South,Flagship
+S00034,Chennai Express Store,Chennai,Tamil Nadu,South,Outlet
+S00035,Kolkata Express Store,Kolkata,West Bengal,East,Outlet
+S00036,Hyderabad Central Store,Hyderabad,Telangana,South,Mall
+S00037,Pune Prime Store,Pune,Maharashtra,West,Flagship
+S00038,Ahmedabad Central Store,Ahmedabad,Gujarat,West,Mall
+S00039,Jaipur Central Store,Jaipur,Rajasthan,North,Mall
+S00040,Lucknow Hub Store,Lucknow,Uttar Pradesh,North,Franchise
+S00041,Mumbai Hub Store,Mumbai,Maharashtra,West,Franchise
+S00042,Delhi Hub Store,Delhi,Delhi,North,Franchise
+S00043,Bengaluru Express Store,Bengaluru,Karnataka,South,Outlet
+S00044,Chennai Prime Store,Chennai,Tamil Nadu,South,Flagship
+S00045,Kolkata Prime Store,Kolkata,West Bengal,East,Flagship
+S00046,Hyderabad Prime Store,Hyderabad,Telangana,South,Flagship
+S00047,Pune Prime Store,Pune,Maharashtra,West,Flagship
+S00048,Ahmedabad Hub Store,Ahmedabad,Gujarat,West,Franchise
+S00049,Jaipur Express Store,Jaipur,Rajasthan,North,Outlet
+S00050,Lucknow Express Store,Lucknow,Uttar Pradesh,North,Outlet
